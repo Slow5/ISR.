@@ -1,0 +1,11 @@
+C:\Users\eduar\Desktop\ISR\ISR.Core\bin\Debug\net7.0\ISR.Core.deps.json
+C:\Users\eduar\Desktop\ISR\ISR.Core\bin\Debug\net7.0\ISR.Core.dll
+C:\Users\eduar\Desktop\ISR\ISR.Core\bin\Debug\net7.0\ISR.Core.pdb
+C:\Users\eduar\Desktop\ISR\ISR.Core\obj\Debug\net7.0\ISR.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\ISR\ISR.Core\obj\Debug\net7.0\ISR.Core.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\ISR\ISR.Core\obj\Debug\net7.0\ISR.Core.AssemblyInfo.cs
+C:\Users\eduar\Desktop\ISR\ISR.Core\obj\Debug\net7.0\ISR.Core.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\ISR\ISR.Core\obj\Debug\net7.0\ISR.Core.dll
+C:\Users\eduar\Desktop\ISR\ISR.Core\obj\Debug\net7.0\refint\ISR.Core.dll
+C:\Users\eduar\Desktop\ISR\ISR.Core\obj\Debug\net7.0\ISR.Core.pdb
+C:\Users\eduar\Desktop\ISR\ISR.Core\obj\Debug\net7.0\ref\ISR.Core.dll
